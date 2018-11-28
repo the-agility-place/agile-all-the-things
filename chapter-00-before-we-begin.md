@@ -12,11 +12,11 @@ We met at work. The odds were against it, the company we work for is massive, bu
 
 A while back, we had a revelation that was born out of frustration (as the best revelations usually are).
 
-We realized that many of the things we were doing with teams at work suddenly made sense to do with our own (respective) kids. Oh, it also dawned on us that some of the things that made sense with our kids might just help us at work.
+We realized that many of the things we were doing with teams at work suddenly made sense to do with our own (respective) kids. Oh, it also dawned on us that some of the things that made sense with our kids might just help us at work. (Please don’t tell anyone that).
 
 Work / life balance of a different sort.
 
-Oh, almost forgot. If you care about these kind of things, we’re both Certified Scrum Masters, Certified Scrum Product Owners, plus have a Certified Scrum at Scale and a few other certifications kicking around. So, the certification people have vouched that we know what we’re doing. We’ll back up those credentials with things we’ve learned working with teams of all sizes and how we’re applying what we’re learning to all kinds of every day situations.
+Oh, almost forgot. If you care about these kind of things, we’re both Certified Scrum Masters, Certified Scrum Product Owners, a Certified Scrum at Scale Professional and a few other certifications kicking around. So, the certification people have vouched that we know what we’re doing. We’ll back up those credentials with things we’ve learned working with teams of all sizes and how we’re applying what we’re learning to all kinds of every day situations.
 
 So, with that out of the way, it’s time to Agile All the Things...
 

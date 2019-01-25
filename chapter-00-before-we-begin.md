@@ -8,7 +8,7 @@ George: Wait what?
 
 Micaela: Yeah, come on, George, let's try a little experiment. You know me, I hate boring so instead of a typical bio and list of accomplishments, we can introduce one another. What do you think?
 
-George: Huh, ok let's try it. It worked out with the Bitmoji's.
+George: Hah! Ok let's try it. It worked out with the Bitmoji's.
 
 Micaela: I'll go first, if that's cool?
 
